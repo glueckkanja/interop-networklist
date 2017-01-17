@@ -1,5 +1,0 @@
-language: csharp
-script:
-  - ls -la
-  - nuget
-  - nuget pack "Interop.NetworkList.nuspec"
