@@ -4,7 +4,7 @@
     <id>Interop.NetworkList</id>
     <version>1.0.0</version>
     <authors>Microsoft</authors>
-    <owners>jpberdel</owners>
+    <owners>glueckkanja</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Auto-generated COM interop for NETWORKLIST</description>
     <releaseNotes>Initial release January 2017</releaseNotes>
