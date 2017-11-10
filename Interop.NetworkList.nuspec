@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>Interop.NetworkList</id>
-    <version>1.0.0</version>
+    <version>1.1.0</version>
     <authors>Microsoft</authors>
     <owners>glueckkanja</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
